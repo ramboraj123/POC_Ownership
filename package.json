@@ -1,0 +1,27 @@
+{
+  "name": "poc_ownership",
+  "version": "1.0.0",
+  "description": "This is my proof of concept of verified ownership on ethereum",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramboraj123/POC_Ownership.git"
+  },
+  "author": "raj prajapati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramboraj123/POC_Ownership/issues"
+  },
+  "homepage": "https://github.com/ramboraj123/POC_Ownership#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.5",
+    "ethers": "^5.6.4",
+    "hardhat": "^2.9.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0"
+  }
+}
